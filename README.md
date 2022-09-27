@@ -1,5 +1,7 @@
 # robt403_lab4
 
 roslaunch my_dynamixel_tutorial controller_manager.launch
-roslaunch snake_moveit_config start_moveit_arm_controllers.launch 
+
+roslaunch snake_moveit_config start_moveit_arm_controllers.launch
+
 roslaunch snake_moveit_config moveit_planning_execution.launch 
